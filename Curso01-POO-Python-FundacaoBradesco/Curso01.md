@@ -7,6 +7,7 @@
 ``__init__`` e defina os atributos **PUBLICOS** nome e telefone
 
 ![clientePY.png](..%2Fimgs%2FclientePY.png)
+
 3. defina os **GETTERS** e **SETTERS**
 
 ![clientePYGetSet.png](..%2Fimgs%2FclientePYGetSet.png)
@@ -19,9 +20,11 @@
 ``__init__`` e defina os atributos **PRIVADOS** titular numero e saldo
 
 ![clientePY.png](..%2Fimgs%2FclientePY.png)
+
 3. defina os **GETTERS** e **SETTERS** para os atributos **PRIVADOS**
 
 ![contaPYGetTitular.png](..%2Fimgs%2FcontaPYGetTitular.png)
+
 4. Crie a Função **EXTRATO** para exibição da conta
 
 ![contaPYExtrato.png](..%2Fimgs%2FcontaPYExtrato.png)
