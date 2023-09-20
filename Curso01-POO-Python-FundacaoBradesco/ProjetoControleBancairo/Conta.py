@@ -22,9 +22,3 @@ class Conta:
         self._saldo = saldo if saldo > 0 else print(f'O valor R${float(saldo)} é negativo. Deposite um valor positivo!')
 
 
-    ## Funções
-    def saque(self,valor):
-        self._saldo -= valor if self._saldo>=valor else print('Saldo Insuficiente')
-
-    def deposita(self,valor):
-        self._saldo += valor if valor>0 else print('Favor digitar um valor positivo')
