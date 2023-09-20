@@ -3,11 +3,10 @@ class Main:
 
 
 from Conta import Conta
+from Cliente import Cliente
 
-conta1 = Conta('Geruncio', 6565, 0)
+c1 = Cliente('Geruncio','(11) 2564-7898')
+conta1 = Conta(c1.get_nome(), 6565, 122)
 
 
-conta1.get_conta()
-conta1.set_saldo(-2000)
-conta1.set_saldo(2000)
-conta1.get_conta()
+conta1.
