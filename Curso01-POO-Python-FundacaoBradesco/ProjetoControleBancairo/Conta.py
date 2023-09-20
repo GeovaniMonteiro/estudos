@@ -1,8 +1,9 @@
 class Conta:
     def __init__(self, titular, numero, saldo):
-        self._saldo = 0
         self._titular = titular
         self._numero = numero
+        self._saldo = 0
+
 
     #Metodos GET
     @property
