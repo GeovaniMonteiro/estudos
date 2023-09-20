@@ -13,7 +13,7 @@
 ![clientePYGetSet.png](..%2Fimgs%2FCurso01%2FclientePYGetSet.png)
 
 
-## Criando a Classe Conta
+## Criando a Classe Conta 
 
 1. Abra um novo arquivo nomeado Conta
 2. Chame o método construtor nativo

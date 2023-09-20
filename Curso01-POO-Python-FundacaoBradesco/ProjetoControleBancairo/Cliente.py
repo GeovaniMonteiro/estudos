@@ -11,3 +11,6 @@ class Cliente:
     def set_nome(self,nome):
         self.nome = nome
 
+
+
+
