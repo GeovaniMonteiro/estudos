@@ -5,6 +5,7 @@
 1. Abra um novo arquivo nomeado Cliente
 2. Chame o método construtor nativo
 ``__init__`` e defina os atributos **PUBLICOS** nome e telefone
+![contaPY.png](..%2Fimgs%2FcontaPY.png)
 3. defina os **GETTERS** e **SETTERS**
 
 ## Criando a Classe Conta
