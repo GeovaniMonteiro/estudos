@@ -1,5 +1,9 @@
 # Desenvolvendo um Projeto Completo Python com Estrutura de Dados - Fundação Bradesco
 
+Acesse o Projeto Completo: [MainProject](MainProject)
+
+As Anotações de testes estão no diretório: [PandasSQLite notebook](PandasSQLite%20notebook)
+
 ## Configurando o Ambiente Virtual
 
 1. Instale o virtualenv
