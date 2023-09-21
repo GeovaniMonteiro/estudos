@@ -1,6 +1,5 @@
 from tkinter import *
 
-
 class Gui:
     """Classe de interface
     """

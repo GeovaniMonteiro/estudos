@@ -36,6 +36,7 @@ class TransactionObject():
             return False
 
 
+
 def initDB():
     trans = TransactionObject()
     trans.connect()

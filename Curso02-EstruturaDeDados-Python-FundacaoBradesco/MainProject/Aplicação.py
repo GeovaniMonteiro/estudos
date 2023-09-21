@@ -3,6 +3,7 @@ import Backend as core
 
 app = None
 
+
 def view_command():
     rows = core.view()
     app.listClientes.delete(0, END)
