@@ -6,4 +6,4 @@ Cada Curso/Estudo feito foi detalhado em arquivos .md (markdown) com trechos do 
 
 2. [Curso 02 - Python Estrutura de Dados (Fundação Bradesco)](https://github.com/GeovaniMonteiro/estudos/blob/12d2bf0383e8eaae58783d69ac3344017910b3db/Curso02-EstruturaDeDados-Python-FundacaoBradesco/Curso02.md) - Projeto Completo Python e Estrutura de Dados
 
-Salve Devs, até a próxima!
+Salve Devs, até a próxima! 
