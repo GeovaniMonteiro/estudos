@@ -30,7 +30,20 @@ Isso significa que agora você pode trabalhar em seu projeto Python sem se preoc
 
 ``(venv) $ deactivate``
 
-## Configuração e Criação das tabelas utilizadas
-Para esse projeto utilizamos o SQLite através do SQLiteStudio pela sua rapidez.
+## Projeto Cadastro Simples
+
+O projeto consiste em um programa para cadastro de pessoas(Nome, Sobrenome, Email, CPF) em um banco de dados
+atrvés de uma interface.
+
+![InterfaceMain.png](..%2Fimgs%2FCurso02%2FInterfaceMain.png)
+
+
+Foi utilizado a biblioteca TKinter para a criação da interface e sqlite3 para gerar o banco de dados
+
+Pode visualizar os testes no Banco de dados através do JupyterNotebook :
+[testesDB.ipynb](MainProject%2FtestesDB.ipynb)
+
+
+
 
 
