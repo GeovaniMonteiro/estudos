@@ -47,7 +47,32 @@ Foi utilizado a biblioteca TKinter para a criação da interface e sqlite3 para 
 Pode visualizar os testes no Banco de dados através do JupyterNotebook :
 [testesDB.ipynb](MainProject%2FtestesDB.ipynb)
 
+## Foi utilizado o Conceito de POO no desenvolvimento e separação das classes
+
+# Backend
+Arquivo:
+[Backend.py](MainProject%2FBackend.py)
+![FuncoesBackProj.png](..%2Fimgs%2FCurso02%2FFuncoesBackProj.png)
+Separado especificamente para as funções de BackEnd
+* Remoção de dados
+![FuncDelete.png](..%2Fimgs%2FCurso02%2FFuncDelete.png)
+* Atualização de dados
+![FuncUpdate.png](..%2Fimgs%2FCurso02%2FFuncUpdate.png)
+* Visualização de dados
+![FuncView.png](..%2Fimgs%2FCurso02%2FFuncView.png)
+* Inserção de dados
+![FuncInsert.png](..%2Fimgs%2FCurso02%2FFuncInsert.png)
+* Procura de dados
+![FuncSearch.png](..%2Fimgs%2FCurso02%2FFuncSearch.png)
 
 
-
-
+# FrontEnd
+Arquivo: [GUI.py](MainProject%2FGUI.py)
+![InterfaceMainCode.png](..%2Fimgs%2FCurso02%2FInterfaceMainCode.png)
+Separado especificamente para a criação da Interface FrontEnd
+* Criação dos objetos da janela
+ ![ObjetosJanela.png](..%2Fimgs%2FCurso02%2FObjetosJanela.png)
+* Associando os objetos
+![AssociandoOBJETOS.png](..%2Fimgs%2FCurso02%2FAssociandoOBJETOS.png)
+* Interface SWAG
+![InterfaceSWAG.png](..%2Fimgs%2FCurso02%2FInterfaceSWAG.png)
