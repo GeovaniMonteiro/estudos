@@ -50,10 +50,12 @@ Pode visualizar os testes no Banco de dados através do JupyterNotebook :
 ## Foi utilizado o Conceito de POO no desenvolvimento e separação das classes
 
 # Backend
+
 Arquivo:[Backend.py](MainProject%2FBackend.py)
+
   ![FuncoesBackProj.png](..%2Fimgs%2FCurso02%2FFuncoesBackProj.png)
 
-Separado especificamente para as funções de BackEnd
+  Separado especificamente para as funções de BackEnd
 
 * Remoção de dados
 
@@ -77,11 +79,12 @@ Separado especificamente para as funções de BackEnd
 
 
 # FrontEnd
+
 Arquivo: [GUI.py](MainProject%2FGUI.py)
 
 ![InterfaceMainCode.png](..%2Fimgs%2FCurso02%2FInterfaceMainCode.png)
 
-Separado especificamente para a criação da Interface FrontEnd
+  Separado especificamente para a criação da Interface FrontEnd
 
 * Criação dos objetos da janela
 
