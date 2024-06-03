@@ -1,6 +1,6 @@
 # Análise dos dados de internação do DATASUS
 
-![image]([https://github.com/luizolijr/datasus_bi/assets/42130256/4aeeed0b-9dce-4502-ab68-107bfb28ee63](https://github.com/GeovaniMonteiro/estudos/blob/main/ada_tech_ifood/Projetos/datasus_bi/assets/dash-main.png))
+![image](https://github.com/luizolijr/datasus_bi/assets/42130256/4aeeed0b-9dce-4502-ab68-107bfb28ee63](https://github.com/GeovaniMonteiro/estudos/blob/main/ada_tech_ifood/Projetos/datasus_bi/assets/dash-main.png))
 
 Este é um projeto de análise de dados com Power BI. O projeto é apresentado no BI, mas nas fases de obtenção e tratamento dos dados brutos fez-se necessário uso de Python e R.
 
